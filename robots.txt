@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://omonges.github.io/sitemap.txt
